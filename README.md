@@ -9,3 +9,5 @@ Use "list" command to print all the available key:data content.
 
 
 ![alt text](https://github.com/swapv24/multiclipboard/blob/main/terminal_screenshot.jpg)
+
+![](https://github.com/swapv24/multiclipboard/blob/main/multiclipboard.gif)
